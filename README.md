@@ -23,5 +23,5 @@
 * EDA
 * Optimized Linear, Decision Tree and Random forrest Regressors to reach the best model.
 
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project3.png)
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project3head.png)
+![](/images/project3.png)
+![](/images/project3head.png)
