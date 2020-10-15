@@ -7,8 +7,8 @@
 * Engineered features to normalize and standardized variable to help understand data.
 * Optimized Linear, Decision Tree and Random forrest Regressors to reach the best model.
 
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/download%20(1).png)
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/download%20(3).png)
+![](/images/download%20(1).png)
+![](/images/download%20(3).png)
 
 # [Project 2: Video Game Sale - Project Overview](https://github.com/Sameedahmed123/Video-Game)
 * This dataset contains a list of video games with sales greater than 100,000 copies. 
@@ -16,6 +16,6 @@
 * I am going analyze and Visualize Video game sales in different regions of the World and which publisher or platform perform great in last few decades. 
 * Some of the visualizing techniques I am going to use are boxplot, bar, Pie-Chart, Kde, Scatterplot, lineplot.
 
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project2.png)
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project2pie.png)
-![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project2sales.png)
+![](/images/project2.png)
+![](/images/project2pie.png)
+![](/images/project2sales.png)
