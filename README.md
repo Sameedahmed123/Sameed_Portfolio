@@ -1,5 +1,3 @@
-# Sameed_Portfolio
-
 
 # [Project 1: Used Car Price Estimator : Project Overview](https://github.com/Sameedahmed123/Cars-Price-Prediction)
 * Predicted Price of Used Car to help People predict price of their cars.
