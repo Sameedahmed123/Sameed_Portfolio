@@ -17,3 +17,11 @@
 ![](/images/project2.png)
 ![](/images/project2pie.png)
 ![](/images/project2sales.png)
+
+# [Project 3: CardioGoodFitness - Project Overview](https://github.com/Sameedahmed123/Cardio_Good_Fitness#cardiogoodfitness---project-overview)
+* Analyzing which customer characteristic have the most impact on the product sale.
+* EDA
+* Optimized Linear, Decision Tree and Random forrest Regressors to reach the best model.
+
+![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project3.png)
+![](https://github.com/Sameedahmed123/Sameed_Portfolio/blob/main/images/project3head.png)
