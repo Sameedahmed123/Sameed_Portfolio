@@ -5,8 +5,8 @@
 * Engineered features to normalize and standardized variable to help understand data.
 * Optimized Linear, Decision Tree and Random forrest Regressors to reach the best model.
 
-![](/images/download%20(1).png)
-![](/images/download%20(3).png)
+![](/images/project1.png)
+![](/images/project1resid.png)
 
 # [Project 2: Video Game Sale - Project Overview](https://github.com/Sameedahmed123/Video-Game)
 * This dataset contains a list of video games with sales greater than 100,000 copies. 
